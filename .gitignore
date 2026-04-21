@@ -1,0 +1,15 @@
+# React
+pharma-frontend/node_modules
+pharma-frontend/dist
+pharma-frontend/.env
+pharma-frontend/.env.local
+
+# .NET
+PharmaBackEnd/bin
+PharmaBackEnd/obj
+PharmaBackEnd/**/*.user
+PharmaBackEnd/.vs
+
+# General
+.DS_Store
+Thumbs.db
